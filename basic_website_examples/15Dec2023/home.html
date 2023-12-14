@@ -1,12 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-</head>
-<body>
-    <p>Bu bir paragraftir!</p>
+    <style>
+        #container{
+            margin:auto;
+            width: 800px;
+            /* text-align: center; */
+        }
+        #header {
+            width: 800px;
+            height: 80px;
+            border: 1px solid aquamarine;
+            padding: 50px;
+            margin: 20px;
+            text-align: center;
+            flex: auto;
+        }
+        #nav {
+            width: 800px;
+            height: 30px;
+            border: 1px solid gray;
+            padding: 50px;
+            margin: 20px;
+        }
+        #content {
+            width: 800px;
+            height: 300px;
+            border: 1px solid green;
+            padding: 50px;
+            margin: 20px;
+        }
+        #footer{
+            width: 800px;
+            height: 20px;
+            border: 1px dotted #ccc;
+            margin: 20px;
+            padding: 50px;
+        }
+    </style>
 
+</head>
+
+<body>
+    <div id="container">
+        <div id="header">Header</div>
+        <div id="nav">Navigation</div>
+        <div id="content">Content</div>
+        <div id="footer">Footer</div>
+    </div>
 </body>
+
 </html>
