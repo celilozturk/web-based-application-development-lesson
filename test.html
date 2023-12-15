@@ -1,12 +1,133 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        h2 {
+            color: red;
+
+        }
+
+        #metin1 {
+            color: green;
+            background-color: aquamarine;
+        }
+
+        .metin2 {
+            color: brown;
+            background-color: black;
+        }
+
+        .button1 {
+            text-decoration: none;
+            color: blueviolet
+        }
+
+        .box {
+            width: 300px;
+            height: 200px;
+            border:1px solid black;        
+            justify-content: center;
+            align-items: center;  
+            display: flex;             
+        }
+        
+
+        .container{
+            width: 502px;
+            text-align: center;
+            margin: auto;
+            border-radius:10px ;
+            
+        }
+        .header{
+            width: 500px;
+            height: 100px;
+            border:1px dotted blue;
+           
+        }
+        .nav{
+            width: 500px;
+            height: 50;
+            border:1px dotted red;
+            margin-top: 20px;
+            margin-bottom: 50px;
+            padding: 10px;
+            
+        }
+        .content{
+            width: 500px;
+            height: 300px;
+            border:1px dotted blue;
+            background-image: url('resim1.png');
+            background-repeat:no-repeat;
+            /* background-attachment: fixed; */
+            /* background-size: 100% 100%; */
+            background-size: cover;
+           
+        }
+        .footer{
+            width: 500px;
+            height: 20;
+            border:1px dotted green;
+            margin: 10px 0px 20px 0px;            
+        }
+        body{
+            
+        }
+        .spanornek{
+            background-color:green ;
+        }
+        #ozelmetin{
+            background-color: pink;font-weight: bold;
+        }
+        span{
+            color:brown
+        }
+        .override1{
+            color:gray;
+        }
+        #override2{
+            color:black
+        }
+    </style>
 </head>
+
 <body>
     <h2>Test 2</h2>
-    <h2>Test 3</h2>
+    <h2 class="metin2">Test 6</h2>
+    <h2 id="metin1">Test 5</h2>
+    <h3>Test 3</h3>
+    <a class="button1" href="#">Tıkla1</a>
+    <a href="#">Tıkla2</a>
+    <div class="box">
+       <p >...Merhaba...</p>
+    </div>
+
+    -------------------------------------------------------
+    <div class="container">
+            <div class="header">Header</div>
+            <div class="nav">Navigation</div>
+            <div class="content">Content</div>
+            <div class="footer">Footer</div>
+    </div>  
+    <p style="color:red">Lorem ipsum dolor sit <span id="ozelmetin">amet</span> consectetur adipisicing elit. 
+        Tenetur architecto perferendis, doloremque perspiciatis veritatis quod, 
+        cupiditate maiores consequuntur,<span style="color:blue">rem</span>assumenda ipsum at iure animi exercitationem
+         placeat ea <span class="spanornek">temporibus</span> expedita dolorum?</p>
+
+         <span class="override1">s</span>
+         <span class="override1">c</span>
+         <span class="override1" id="override2">r</span>
+         <span>i</span>
+         <span>p</span>
+         <span>t</span>
+
+         <h2></h2>
+         <h2></h2>
+         <h2></h2>
 </body>
 </html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div {
+            width: 100px;
+            height: 100px;
+            border: 1px dashed brown;
+            background-color: aqua;
+        }
+
+        div:hover {
+            background-color: red;
+            color: blue;
+        }
+
+        a:hover {
+            text-decoration: none;
+            color: blueviolet;
+        }
+
+        input:focus {
+            background-color: black;
+        }
+
+        img {
+            opacity: 0.5;
+        }
+        img:hover {
+            opacity: 1.0;
+        }
+
+        
+    </style>
+</head>
+
+<body>
+    <div class="box">Test</div>
+    <a href="#">Link</a>
+    <input type="text">
+    <div style="width: 100px;z-index: 1; height:100px;background-color: brown;background-image: url('resim1.png');">
+        <p style="z-index: 3;">Test</p>
+        <img style="z-index: 2;" src="resim2.jfif" alt="">
+
+    </div>
+    
+    <img src="resim2.jfif">
+</body>
+
+</html>
