@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <p id="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore iusto pariatur omnis sed. Ad exercitationem, quo sequi nostrum sed corrupti cum quas optio iusto libero suscipit voluptas non, ipsum eveniet!</p>
+
+    <button onclick="renkDegistir()">Varsayılan Renk Degiştir</button>   
+    <button onclick="kullaniciRenkDegistir('blue')">Mavi donustur!</button>   
+    <button onclick="kullaniciRenkDegistir('green')">Yeşil donustur!</button>   
+
+    <script>
+        function renkDegistir() {
+           document.getElementById("lorem").style.color="red";
+        }      
+        function kullaniciRenkDegistir(renk) {
+           document.getElementById("lorem").style.color=renk;
+        }     
+    </script>
+
+</body>
+
+</html>
