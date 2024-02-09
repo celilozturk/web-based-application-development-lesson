@@ -1,11 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>  
+
+        p {
+            color: blue;
+        }
+    </style>
 </head>
 <body>
-    <p>Test</p>
+<input type="text" name="kullaniciAdi" value="">
+    <p id="mesaj">Hello World</p>
+
+    <h3 class="baslik">Baslık 1</h3>
+    <h3 class="baslik">Baslık 1</h3>
+    <h3 class="baslik">Baslık 1</h3>
+  
+
+    <script>
+        document.getElementById("mesaj").style.color = "red";
+        document.getElementById("mesaj").style.fontSize= "30px";
+        document.getElementsByClassName("baslik")[0].style.color="green";
+        document.getElementsByClassName("baslik")[1].style.color="orange";
+        document.getElementsByClassName("baslik")[2].style.color="yellow";
+
+        document.getElementsByName("kullaniciAdi").style.color="gray";
+        document.getElementsByName("title").style.color="white";
+        
+    </script>
 </body>
 </html>
