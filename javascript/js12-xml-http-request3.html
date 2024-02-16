@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <p id="email"> </p>
+    <div id="url"> </div>
+    <p id="fulldata"></p>
+    <button onclick="Posts()">Resim görüntüle</button>
+    <script>
+        var xhttp = new XMLHttpRequest();
+        var users = "";
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                users = JSON.parse(xhttp.responseText);
+            }
+        };
+        xhttp.open("GET", "https://reqres.in/api/users");
+        xhttp.send();
+
+        function Posts() {
+           
+            for (let i = 0; i < 10; i++) {
+               document.getElementById("email").innerHTML += users.data[i].email;
+               document.getElementById("url").innerHTML += '<img src="' + users.data[i].avatar + '" />';
+               
+            }
+        }
+
+
+       // alert(data);
+
+    </script>
+</body>
+
+</html>
