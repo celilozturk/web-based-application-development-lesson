@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <p id="userId"> </p>
+    <p id="title"> </p>
+    <button onclick="Posts()">Gönderiyi Getir!</button>
+    <script>
+        var xhttp = new XMLHttpRequest();
+        var data="";
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {              
+                data=JSON.parse(xhttp.responseText);   
+                
+            }
+        };
+        xhttp.open("GET", "https://jsonplaceholder.typicode.com/posts");
+        xhttp.send();
+
+        function Posts(){
+            document.getElementById("title").innerHTML=data[0].title;
+            document.getElementById("userId").innerHTML=data[0].userId;
+        }
+        
+       // alert(data);
+
+    </script>
+</body>
+
+</html>
