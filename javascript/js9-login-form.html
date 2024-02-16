@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="margin-left: 100px; margin-top: 100px;">
+        <table >
+            <tr>
+                <td>Kullanıcı Adı:</td>
+                <td>
+                    <input type="text" id="kullaniciAdi" />
+                </td>
+            </tr>
+            <tr>
+                <td>Parola</td>
+                <td>
+                    <input type="password" id="parola" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button onclick="GirisYap()">Giriş</button>
+                </td>                
+            </tr>
+        </table>
+        <h3 id="girisMesaj">Hoşgeldin ...</h3>
+    </div>
+    <script>
+        function GirisYap(){
+            var kullaniciAdiDegisken=document.getElementById('kullaniciAdi').value;
+            var parolaDegisken=document.getElementById('parola').value;
+
+            if(kullaniciAdiDegisken=="Mahmut" && parolaDegisken=="12345"){
+                document.getElementById('girisMesaj').innerHTML="Hosgeldin "+kullaniciAdiDegisken;
+            }
+            else{
+                alert('Kullanıcı adı veya parola hatalı')
+            }
+
+           // alert(kullaniciAdiDegisken +" - " + parolaDegisken)
+        }
+
+    </script>
+</body>
+</html>
