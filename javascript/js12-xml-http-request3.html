@@ -14,29 +14,27 @@
     <div id="url"> </div>
     <p id="fulldata"></p>
     <button onclick="Posts()">Resim görüntüle</button>
+    <img src="              " >
     <script>
         var xhttp = new XMLHttpRequest();
         var users = "";
+        var yas=20;
+
+      //  var mesaj='Merhaba ben '+yas+' yaşındayım.';
+        alert(mesaj);
         xhttp.onreadystatechange = function () {
             if (this.readyState == 4 && this.status == 200) {
-                users = JSON.parse(xhttp.responseText);
-            }
+                users = JSON.parse(xhttp.responseText);            }
         };
         xhttp.open("GET", "https://reqres.in/api/users");
         xhttp.send();
-
-        function Posts() {
-           
+        function Posts() {           
             for (let i = 0; i < 10; i++) {
                document.getElementById("email").innerHTML += users.data[i].email;
-               document.getElementById("url").innerHTML += '<img src="' + users.data[i].avatar + '" />';
-               
+               document.getElementById("url").innerHTML += '<img src="' + users.data[i].avatar + '" />';               
             }
         }
-
-
        // alert(data);
-
     </script>
 </body>
 
