@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|e:\\celil\\web-based-application-development-lesson\\netcore8mvc\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|solutionrelative:views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|e:\\celil\\web-based-application-development-lesson\\netcore8mvc\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|solutionrelative:controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|e:\\celil\\web-based-application-development-lesson\\netcore8mvc\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|solutionrelative:views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|e:\\celil\\web-based-application-development-lesson\\netcore8mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|e:\\celil\\web-based-application-development-lesson\\netcore8mvc\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|e:\\celil\\web-based-application-development-lesson\\netcore8mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|e:\\celil\\web-based-application-development-lesson\\netcore8mvc\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9FA570A-710A-4652-BC44-F12CBAA11FF0}|NetCore8MVC.csproj|solutionrelative:views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAB1AAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-23T08:53:07.839Z",
+              "WhenOpened": "2024-02-23T10:18:11.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\Index.cshtml",
+              "ToolTip": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "Views\\Urun\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-23T10:15:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Views\\Car\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Car\\Index.cshtml",
@@ -56,28 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "DocumentIndex": 0,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrunController.cs",
+              "ToolTip": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "Controllers\\UrunController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T08:50:47.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Controllers\\CarController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
-              "ToolTip": "E:\\Celil\\web-based-application-development-lesson\\NetCore8MVC\\Controllers\\CarController.cs",
-              "RelativeToolTip": "Controllers\\CarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T08:47:47.539Z",
+              "WhenOpened": "2024-02-23T09:53:50.364Z",
               "EditorCaption": ""
             }
           ]
