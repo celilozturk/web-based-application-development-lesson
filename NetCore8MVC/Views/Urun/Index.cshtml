@@ -1,6 +1,5 @@
 ﻿@model Urun
-
-
+@* Controllerdan View'e gönderilen Urun nesnesini yukarıda bulunan @model Urun adındaki satırda karşılıyoruz. *@
 
 
 <table class="table table-bordered">
@@ -13,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td> @Model.UrunAdi </td>
+                <td> @Model.UrunAdi </td>   @*  View'e gelen Urun bilgilerinin her birine @Model.property kullanılarak erişebilirsiniz. *@
                 <td> @Model.UrunStokAdedi </td>
                 <td> @Model.Fiyat </td>
             </tr>

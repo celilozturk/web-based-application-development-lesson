@@ -1,0 +1,34 @@
+##--Hazırlık--##
+Adım 1 => Projenin bilgisayara indirilmesi!
+    1.Yöntem => CMD üzerinde komutu kullanılarak proje istenilen konuma klonlanabilir yada fork kullanabilirsiniz. Örn, Masaüstü/Web_Uygulamaları_Dersi klasörü.
+C:\Users\celil> git clone https://github.com/celilozturk/web-based-application-development-lesson.git
+    2.Yöntem => https://github.com/celilozturk/web-based-application-development-lesson/archive/refs/heads/master.zip adresinden repositorynin zip olarak indirilmesi
+Adım 2 => Indırdıgınız dosyayı Visual Studio üzerinde açınız.
+
+1- Araba Model sınıfı oluşturma.
+ Model Klasörü altında Car.cs adında bir sınıf oluşturunuz.
+
+2-Aşağıda verilen property'leri tanımlayınız. (Kısayol prop + tab + tab)
+    string tipinde Marka;  // Örnek Ford
+    string tipinde Model;  // Focus
+    int tipinde ModelYil;  // 2021
+    string tipinde Renk;   // Beyaz
+
+ 3- ArabaController.cs içindeki Index Metodunda Araba sınıfından bir nesne oluşturunuz.
+ Oluşturduğunuz nesnenin özelliklerine istediğiniz bir arabanın özelliklerini atayınız.
+
+4- Oluşturduğunuz nesnenin örneğini ArabaController.cs sınıfında bulunan Index metodunun içinden Index.cshtml adındaki View dosyasına gönderiniz.
+
+5- View Klasörünün altında bulunan Araba klasöründe bulunan Index.cshtml dosyasının içinde oluşturduğunuz Araba sınıfı nesnesinin her bir özelliğinin değerlerini gösteriniz!
+
+6. Oluşturuduğunuz Araba View sayfasına erişim linkini  Shared >_Layout.cshtml  altına ekleyiniz.
+
+6- Araştırma: View dosyasında bir form yardımı ile kullanıcıdan alınan Araba özelliklerinin ArabaController.cs sınıfına aktarım yöntemlerini araştırınız.
+
+Not:
+  UrunController.cs,
+  Urun.cs,
+  Urun>Index.cshtml  dosyalarına eklenen açıklamaları kullanarak verilen uygulamayı tamamlayınız.
+
+7- Yaptığınız çalışmaları kendi GitHub hesabınızda oluşturuduğunuz web tabanlı uygulama geliştirme için kullandığınız repositorinize ekleyiniz.
+Teslim Tarihi: 1 Mart 2024

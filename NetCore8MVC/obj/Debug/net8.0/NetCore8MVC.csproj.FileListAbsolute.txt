@@ -29,3 +29,34 @@ E:\Celil\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\r
 E:\Celil\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.pdb
 E:\Celil\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.genruntimeconfig.cache
 E:\Celil\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\ref\NetCore8MVC.dll
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\bin\Debug\net8.0\appsettings.Development.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\bin\Debug\net8.0\appsettings.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\bin\Debug\net8.0\NetCore8MVC.staticwebassets.runtime.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\bin\Debug\net8.0\NetCore8MVC.exe
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\bin\Debug\net8.0\NetCore8MVC.deps.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\bin\Debug\net8.0\NetCore8MVC.runtimeconfig.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\bin\Debug\net8.0\NetCore8MVC.dll
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\bin\Debug\net8.0\NetCore8MVC.pdb
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.AssemblyInfoInputs.cache
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.AssemblyInfo.cs
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.csproj.CoreCompileInputs.cache
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.RazorAssemblyInfo.cache
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.RazorAssemblyInfo.cs
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.sourcelink.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\staticwebassets\msbuild.NetCore8MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.NetCore8MVC.props
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetCore8MVC.props
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NetCore8MVC.props
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\scopedcss\bundle\NetCore8MVC.styles.css
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\scopedcss\projectbundle\NetCore8MVC.bundle.scp.css
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.dll
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\refint\NetCore8MVC.dll
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.pdb
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\NetCore8MVC.genruntimeconfig.cache
+D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\obj\Debug\net8.0\ref\NetCore8MVC.dll

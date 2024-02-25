@@ -9,51 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NetCore8MVC
 build_property.RootNamespace = NetCore8MVC
-build_property.ProjectDir = E:\Celil\web-based-application-development-lesson\NetCore8MVC\
+build_property.ProjectDir = D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Celil\web-based-application-development-lesson\NetCore8MVC
+build_property.MSBuildProjectDirectory = D:\dev\2023-2024 Ders Projeleri\web-based-application-development-lesson\NetCore8MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/Car/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEluZGV4LmNzaHRtbA==
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Araba/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhYmFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/Home/Iletisim.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Home/Iletisim.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbGV0aXNpbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/Home/Index.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/Home/Privacy.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/Home/Test.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Home/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/Shared/Error.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/_ViewImports.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Urun/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/_ViewStart.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Celil/web-based-application-development-lesson/NetCore8MVC/Views/Shared/_Layout.cshtml]
+[D:/dev/2023-2024 Ders Projeleri/web-based-application-development-lesson/NetCore8MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mh0focefav
