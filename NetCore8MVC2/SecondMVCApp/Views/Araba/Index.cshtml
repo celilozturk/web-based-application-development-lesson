@@ -1,0 +1,39 @@
+﻿@model List<Araba>
+
+<p>Araba Index Sayfası</p>
+
+<div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Marka</th>
+                    <th>Model</th>
+                    <th>Model Yılı</th>
+                    <th>Renk</th>
+                </tr>
+            </thead>
+            <tbody>
+               @*  <tr>
+                    <td>@Model.Id</td>
+                    <td>@Model.Marka</td>
+                    <td>@Model.Model</td>
+                    <td>@Model.ModelYili</td>
+                    <td>@Model.Renk</td>
+                </tr> *@
+            @foreach(Araba araba in Model)
+            {
+                <tr>
+                    <td>@araba.Id</td>
+                    <td>@araba.Marka</td>
+                    <td>@araba.Model</td>
+                    <td>@araba.ModelYili</td>
+                    <td>@araba.Renk</td>
+                </tr>
+            }
+            
+        </tbody>
+
+        </table>
+        <img  />
+</div>
