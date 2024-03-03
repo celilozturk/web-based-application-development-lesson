@@ -1,0 +1,34 @@
+Lab 2'nin devamı......
+Bu çalışmada son hafta yaptığımız uygulama olan NetCore8MVC2 projesinden yararlanabilirsiniz.
+
+1- UrunController.cs adında oluşturduğunuz Controller altında UrunListesi adında yeni bir ActionMetot tanımlayınız.
+ Bkz. ArabaController.cs>VeriTasima gibi....
+
+2-Oluşturduğunuz UrunListesi Metodu ile bir List<Urun> Urunler adında bir nesne oluşturunuz.
+
+3-Urun urun1=new Urun() şeklinde Urun sınıfından birkaç nesne örneği oluşturunuz.
+
+4-Urunler listesine oluşturduğunuz Urun nesnelerini ekleyiniz.
+
+5- 1.Adımda oluşturduğunuz UrunListesi metoduna sağ tıklayarak UrunListesi adında bir View dosyası oluşturunuz.
+Oluşturduğunuz UrunListesi verilerini Views/Urun/UrunListesi.cshtml adındaki View dosyasına gönderiniz.
+
+6- View Klasörünün altında bulunan Urun klasöründe bulunan UrunListesi.cshtml dosyasının içinde oluşturduğunuz UrunListesi sınıfı nesnelerinin her bir özelliğinin değerlerini gösteriniz!
+Not: Birden fazla ürün nesnesi olduğu için Listeyi yazdırmak için Foreach döngü yapısını kullanınız.
+
+7. Oluşturuduğunuz UrunListesi View sayfasına erişim linkini  Shared >_Layout.cshtml  altına ekleyiniz.
+
+8. ViewBag ile aşağıdaki mesaji UrunListesi Metodunda tanımlayınız ve UrunListesi View'ine göndererek gösteriniz.
+    1. Yöntem eklediğiniz ürün sayısını soldaki mesaja kendiniz yazarak gönderiniz.
+    => ViewBag.urunSayisi="Urun Listesinde 4 adet ürün bulunmaktadır.";
+    2. Yöntem eklediğiniz ürün sayısının dinamik olarak değişebileceğini düşünürsek soldaki mesaji urun sayısına göre otomatik oluşturarak gönderiniz.
+    => ViewBag.urunSayisi=$"Urun Listesinde {UrunListesi.Count()} adet ürün bulunmaktadır.";
+    Not: Yukaridaki yontem String interpolasyon yapisi olarak adlandirilir. Nesne Tabanli Programlama dersinizde kullandiginiz klasik yontem ile de yazdirabilirsiniz !
+    3. Yöntem
+    => ViewBag.urunSayisi="Urun Listesinde"+ UrunListesi.Count() + "adet ürün bulunmaktadır.";
+UrunListesi.Count();
+
+
+9- Yaptığınız çalışmaları kendi GitHub hesabınızda oluşturuduğunuz web tabanlı uygulama geliştirme için kullandığınız repositorinize ekleyiniz.
+
+Teslim Tarihi: 8 Mart 2024
