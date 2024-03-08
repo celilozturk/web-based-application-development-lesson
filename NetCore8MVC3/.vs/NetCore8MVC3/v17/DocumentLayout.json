@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\celil\\web2.donem\\NetCore8MVC3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\views\\urun\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:views\\urun\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\views\\urun\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:views\\urun\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\views\\urun\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:views\\urun\\sil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\controllers\\veritasimacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:controllers\\veritasimacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\controllers\\meyvecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:controllers\\meyvecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\views\\veritasima\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:views\\veritasima\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\models\\meyve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:models\\meyve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\views\\veritasima\\digersayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:views\\veritasima\\digersayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|g:\\celil\\web2.donem\\netcore8mvc3\\views\\meyve\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D735B15A-D7F4-4195-B3B3-4F0C9CF38ADD}|NetCore8MVC3.csproj|solutionrelative:views\\meyve\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Models\\Urun.cs",
+              "RelativeDocumentMoniker": "Models\\Urun.cs",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Models\\Urun.cs",
+              "RelativeToolTip": "Models\\Urun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:23:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\Index.cshtml",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "Views\\Urun\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T09:51:45.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sil.cshtml",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Urun\\Sil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\Sil.cshtml",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Urun\\Sil.cshtml",
+              "RelativeToolTip": "Views\\Urun\\Sil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T09:51:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Urun\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\Guncelle.cshtml",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Urun\\Guncelle.cshtml",
+              "RelativeToolTip": "Views\\Urun\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T09:50:51.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Urun\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Views\\Urun\\Ekle.cshtml",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Urun\\Ekle.cshtml",
+              "RelativeToolTip": "Views\\Urun\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T09:50:38.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:06:41.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:48:31.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DigerSayfa.cshtml",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Veritasima\\DigerSayfa.cshtml",
+              "RelativeDocumentMoniker": "Views\\Veritasima\\DigerSayfa.cshtml",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Veritasima\\DigerSayfa.cshtml",
+              "RelativeToolTip": "Views\\Veritasima\\DigerSayfa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:05:31.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VeritasimaController.cs",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Controllers\\VeritasimaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VeritasimaController.cs",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Controllers\\VeritasimaController.cs",
+              "RelativeToolTip": "Controllers\\VeritasimaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T08:02:41.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeyveController.cs",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Controllers\\MeyveController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeyveController.cs",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Controllers\\MeyveController.cs",
+              "RelativeToolTip": "Controllers\\MeyveController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:28:45.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Veritasima\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Veritasima\\Index.cshtml",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Veritasima\\Index.cshtml",
+              "RelativeToolTip": "Views\\Veritasima\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:38:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Meyve.cs",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Models\\Meyve.cs",
+              "RelativeDocumentMoniker": "Models\\Meyve.cs",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Models\\Meyve.cs",
+              "RelativeToolTip": "Models\\Meyve.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:30:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Meyve\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meyve\\Index.cshtml",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Views\\Meyve\\Index.cshtml",
+              "RelativeToolTip": "Views\\Meyve\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T08:00:47.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "f1fa86a2-d881-4332-818b-231273701a51",
+        "Display": 0,
+        "X": 63,
+        "Y": 147,
+        "Width": 902,
+        "Height": 573,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "G:\\celil\\web2.donem\\NetCore8MVC3\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrunController.cs",
+              "ToolTip": "G:\\celil\\web2.donem\\NetCore8MVC3\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "Controllers\\UrunController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:48:52.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

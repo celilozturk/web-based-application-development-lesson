@@ -1,0 +1,30 @@
+﻿@model Urun
+
+<h3>Urunler Sayfası</h3>
+
+<a class="btn btn-info" asp-controller="Urun" asp-action="Ekle">Urun Ekle</a>
+<p>@Model.Id - @Model.Ad - @Model.Stok</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Ad</th>
+            <th scope="col">Stok</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>          
+            <td>@Model.Id</td>
+            <td>@Model.Ad</td>
+            <td>@Model.Stok</td>
+            <td>
+                <a class="btn btn-warning" asp-controller="Urun" asp-action="Guncelle">Guncelle</a>
+                <a class="btn btn-danger" asp-controller="Urun" asp-action="Sil">Sil</a>
+            </td>
+        </tr>
+        
+    </tbody>
+</table>
+

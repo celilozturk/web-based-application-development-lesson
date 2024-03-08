@@ -1,0 +1,24 @@
+﻿@model List<Meyve>
+
+<p>@ViewBag.mesaj</p>
+
+@foreach(var meyve in Model){
+    <p>@meyve.Id - @meyve.Ad - @meyve.Stok   </p>
+}
+
+<h4>ViewBag mesajlar</h4>
+<p>@ViewBag.mesaj1</p>
+<p>@ViewBag.mesaj2</p>
+<p>@ViewBag.mesaj3</p>
+<p>@ViewBag.mesaj4</p>
+
+<h4>ViewData mesajlar</h4>
+
+<p>@ViewData["mesaj1"]</p>
+<p>@ViewData["mesaj2"]</p>
+<p>@ViewData["mesaj3"]</p>
+<p>@ViewData["mesaj4"]</p>
+
+<h4>TempData mesajlar</h4>
+
+<p>@TempData["mesaj5"]</p>
