@@ -4,7 +4,7 @@
  Model Klasörü altına Urun.cs adında bir sınıf oluşturunuz.
 
 2-Aşağıda verilen property'leri tanımlayınız. (Kısayol prop + tab + tab)
-    string tipinde Id;  // 1
+    int tipinde Id;  // 1
     string tipinde Isım;  // Lenovo Ultrabook V4
     string tipinde Aciklama;   // Bu ürünün ağırlığı yaklaşık 2400 gramdır.
     string tipinde Kategori;   // Elektronik

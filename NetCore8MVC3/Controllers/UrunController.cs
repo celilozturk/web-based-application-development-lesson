@@ -7,11 +7,11 @@ namespace NetCore8MVC3.Controllers
     {
         //Action Method
         public IActionResult Index()
-        {           
+        {
             Urun urun = new Urun();
             urun.Id= 1;
             urun.Ad = "Dell Aspire";
-            urun.Stok = 100;          
+            urun.Stok = 100;
 
             return View(urun);
         }
@@ -24,7 +24,8 @@ namespace NetCore8MVC3.Controllers
         [HttpPost]
         public IActionResult Ekle(Urun urun)
         {
-            return View();
+
+            return Content("urun basariyla eklendi");
         }
 
         public IActionResult Guncelle()

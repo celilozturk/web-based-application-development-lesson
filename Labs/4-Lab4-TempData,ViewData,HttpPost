@@ -1,0 +1,54 @@
+
+1- Models klasörü altına Kitap sınıfı oluşturma.
+ Model Klasörü altına Kitap.cs adında bir sınıf oluşturunuz.
+
+2-Aşağıda verilen property'leri tanımlayınız. (Kısayol prop + tab + tab)
+    int tipinde Id;  // 1
+    string tipinde Ad;  // A'dan Z'ye Siber Guvenlik
+    string tipinde Yazar;   // A. Can POLAT
+    string tipinde Kategori;   // Bilgisayar
+    string tipinde YayinEvi;  // Kodlab
+
+3- KitapController.cs adında bir Controller oluşturunuz.
+ Oluşturduğunuz Controller sınıfı altında Index Metodunda Kitap sınıfından bir Liste oluşturunuz.
+ Oluşturduğunuz Listeye birkac kitap nesnesi ekleyiniz ve özelliklerine istediğiniz bir kitabin bilgilerini atayınız.
+
+4- Oluşturduğunuz Liste örneğini KitapController.cs sınıfında bulunan Index metodundan Views/Kitap/Index.cshtml adındaki View dosyasına gönderiniz.
+
+5- View Klasörünün altında bulunan Kitap klasöründeki Index.cshtml dosyasının içinde oluşturduğunuz Kitap Listesi nesnelerinin her bir özelliğinin değerlerini gösteriniz!(foreach kullanilacak)
+Not: Sonraki adimlarda kullanmak icin her bir eleman icin Sil ve Guncelle butonlarini ekleyiniz.
+Not: Sayfanin en ustune KitapEkle adinda bir link button ekleyiniz. Ornek => (<a asp-action="Ekle" asp-controller="">Kitap Ekle</a>)
+
+6. Oluşturuduğunuz Kitap View sayfasına erişim linkini  Shared >_Layout.cshtml  altına ekleyiniz.
+
+7. Bir Kategori listesi olusturunuz.Ornek =>  List<string> Kategoriler;
+Ornek Kategoriler =>Bilgisayar, Roman, Kisisel Gelisim, Yabanci Dil, Tarih.....
+
+8. 7.adimda olusturudugunuz Kategoriler Listesini Kitap klasoru altindaki Index.cshtml dosyasinda gosteriniz.
+
+9.KitapController.cs dosyasinda Ekle, Guncelle ve Sil adinda birer ActionMethod olusturunuz ve her bir Action metod icin View Dosyalarini olusturunuz.
+
+10. Ekle.cshtml sayfasinda bir html form olusturunuz ve kullanicidan aldiginiz yeni kitap bilgileri Ekle Action Metoduna gonderiniz.
+Not: Ekle Metodu 2 adet olacaktir. Bir tanesi Html Form ile kullanicidan bilgi almak icin, digeri ise KitapEkle butonuna tiklandiginda form'dan gelen bilgileri elde etmek icin.
+
+11. Ekle adinda bir Action Method daha olusturunuz. Ancak bu metodun basina [HttpPost] attribute'unu ekleyiniz. Bu Action Metod  Kitap model tipinde bir parametre alacaktir. Metod geriye Content tipinde urunun eklendigini bildiren bir mesaj dondurecektir.
+
+public IActionResult Ekle(){
+
+}
+
+[HttpPost]
+public IActionResult Ekle(Kitap kitap){
+    return Content("Kitap basariyla eklendi");
+}
+
+
+
+
+
+
+
+7- Yaptığınız çalışmaları kendi GitHub hesabınızda oluşturuduğunuz web tabanlı uygulama geliştirme için kullandığınız repositorinize ekleyiniz.
+
+
+Teslim Tarihi: 8 Mart 2024
