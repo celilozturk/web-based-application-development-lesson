@@ -42,13 +42,7 @@ public IActionResult Ekle(Kitap kitap){
     return Content("Kitap basariyla eklendi");
 }
 
-
-
-
-
-
-
-7- Yaptığınız çalışmaları kendi GitHub hesabınızda oluşturuduğunuz web tabanlı uygulama geliştirme için kullandığınız repositorinize ekleyiniz.
+12- Yaptığınız çalışmaları kendi GitHub hesabınızda oluşturuduğunuz web tabanlı uygulama geliştirme için kullandığınız repositorinize ekleyiniz.
 
 
 Teslim Tarihi: 15 Mart 2024
