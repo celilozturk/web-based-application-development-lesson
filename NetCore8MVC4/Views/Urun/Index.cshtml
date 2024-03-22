@@ -1,0 +1,32 @@
+﻿@model List<Urun>
+<div>
+    <a asp-action="Ekle" asp-controller="Urun" class="btn btn-success">Urun Ekle</a>
+</div>
+
+<table class="table table-bodered">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>Ad</td>
+            <td>Stok</td>
+            <td>İşlemler</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var urun in Model)
+        {
+            <tr>
+                <td>@urun.Id</td>
+                <td>@urun.Ad</td>
+                <td>@urun.Stok</td>
+                <td>
+                    <a asp-action="Guncelle" asp-controller="Urun" class="btn btn-warning" >Guncelle</a>
+                    <a asp-action="Sil" asp-controller="Urun" asp-route-id="@urun.Id" class="btn btn-danger">Sil</a>
+                </td>
+            </tr>
+
+        }
+
+    </tbody>
+
+</table>

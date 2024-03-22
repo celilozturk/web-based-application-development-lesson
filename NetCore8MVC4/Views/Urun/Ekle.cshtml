@@ -1,0 +1,23 @@
+﻿@model Urun
+<h4>Urun ekleme sayfası</h4>
+
+<form>
+    <label asp-for="@Model.Ad" ></label>
+    <input asp-for="@Model.Ad" />
+
+    <label asp-for="@Model.Stok"></label>
+    <input asp-for="@Model.Stok" />
+</form>
+
+@* <form method="post" asp-action="Ekle">
+    <span asp-validation-for="@Model.Ad" class="text-danger"></span>
+    <label>Id</label>
+    <input name="Id" />
+    <label >Ad</label>
+    <input name="Ad" />
+    <span asp-validation-for="@Model.Stok"></span> 
+    <label>Stok</label>
+    <input name="Stok" />  
+    <button type="submit" class="btn btn-outline-primary">Kaydet</button>
+</form> *@
+

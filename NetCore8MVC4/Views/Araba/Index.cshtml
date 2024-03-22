@@ -1,0 +1,36 @@
+﻿@model List<Araba>
+<h5>Burası Araba Index sayfası</h5>
+
+
+<a asp-action="Ekle" asp-controller="Araba" class="btn btn-primary">Araba</a>
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Marka</td>
+            <td>Model</td>
+            <td>Yıl</td>
+            <td>Renk</td>
+            <td>İslemler</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Araba araba in Model)
+        {
+            <tr>
+                <td>@araba.Id</td>
+                <td>@araba.Marka</td>
+                <td>@araba.Model</td>
+                <td>@araba.Yil</td>
+                <td>@araba.Renk</td>
+                <td>
+                    <a asp-action="Guncelle" asp-controller="Araba" class="btn btn-warning" >Guncelle</a>
+                    <a asp-action="Sil" class="btn btn-danger" >Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

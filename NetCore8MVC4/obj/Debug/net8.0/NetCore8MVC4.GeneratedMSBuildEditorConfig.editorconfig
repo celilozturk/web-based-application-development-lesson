@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NetCore8MVC4
+build_property.RootNamespace = NetCore8MVC4
+build_property.ProjectDir = G:\celil\Web Tabanlı Uygulama Geliştirme 2023-2024\NetCore8MVC4\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\celil\Web Tabanlı Uygulama Geliştirme 2023-2024\NetCore8MVC4
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Araba/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhYmFcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Araba/Guncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhYmFcR3VuY2VsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Araba/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhYmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Araba/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhYmFcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Home/JS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKUy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Urun/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Urun/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXJ1blxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/celil/Web Tabanlı Uygulama Geliştirme 2023-2024/NetCore8MVC4/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s0nuf928ou
